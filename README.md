@@ -23,6 +23,8 @@ The assignment covers the following exercises:
 - Python 3
 
 📸 Screenshot
+
+
 <img width="481" height="434" alt="1-notebook" src="https://github.com/user-attachments/assets/e9583d13-e090-41d6-ab01-bf1611c25477" />
 
 
